@@ -1,6 +1,6 @@
 {
   "name": "swaggerify",
-  "description": "",
+  "description": "Swagger definition helpers",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "version": "0.1.0",
   "dependencies": {
