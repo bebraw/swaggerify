@@ -4,9 +4,11 @@
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "version": "0.0.0",
   "dependencies": {
+    "annofp": "^0.3.0",
+    "change-case": "^2.1.6",
+    "require-dir": "^0.1.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/bebraw/swaggerify.git"
@@ -16,6 +18,7 @@
     "url": "https://github.com/bebraw/swaggerify/issues"
   },
   "keywords": [],
+  "main": "./index.js",
   "licenses": [
     {
       "type": "MIT",
