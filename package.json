@@ -2,7 +2,7 @@
   "name": "swaggerify",
   "description": "Swagger definition helpers",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "dependencies": {
     "annofp": "^0.4.2",
     "change-case": "^2.2.0",
