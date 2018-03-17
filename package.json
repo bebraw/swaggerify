@@ -6,7 +6,7 @@
   "dependencies": {
     "annofp": "^0.4.2",
     "change-case": "^2.2.0",
-    "require-dir": "^0.1.0"
+    "require-dir": "^1.0.0"
   },
   "devDependencies": {},
   "repository": {
